@@ -1,8 +1,14 @@
-# React + Vite
+# weather-forecast-app
+Weather forecast fetcher using a simple zip code.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a collaborative effort intended for a few reasons:
 
-Currently, two official plugins are available:
+  • Work collaboratively via GitHub for version control, cloning and merging.
+  
+  • Learn to integrate Python and React on a lightweight app interface.
+  
+  • Add a project to our portfolios that demonstrates teamwork and team-based learning.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project's front end is coded in React, and API calls and handling are coded with Python. 
+While this could be much easier to accomplish simple in Javascript, the point is to learn to 
+integrate two different technologies in a usable stack.
