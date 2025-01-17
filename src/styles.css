@@ -1,0 +1,23 @@
+body {
+  height: 100vh;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column; /* Stack items vertically */
+  align-items: center; /* Optionally center items horizontally */
+  gap: 20px; /* Adds space between Header and Form */
+}
+
+.small-icon {
+  width: 30px;
+  margin: 10px;
+}
+
+h1 {
+  color: red;
+}
+
+.weather-form {
+  display: block;
+}
